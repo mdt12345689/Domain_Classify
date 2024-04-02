@@ -1,0 +1,670 @@
+[
+    {
+        "App": "ABC Australia",
+        "Domain": "www.abc.net.au"
+    },
+    {
+        "App": "Adobe",
+        "Domain": "assets.adobedtm.com"
+    },
+    {
+        "App": "Adobe",
+        "Domain": "adobe.com"
+    },
+    {
+        "App": "Adobe",
+        "Domain": "typekit.net"
+    },
+    {
+        "App": "Adobe",
+        "Domain": "adobe.io"
+    },
+    {
+        "App": "Be",
+        "Domain": "be.com.vn"
+    },
+    {
+        "App": "Beamin",
+        "Domain": "baemin.vn"
+    },
+    {
+        "App": "ChatGPT",
+        "Domain": "cdn.oaistatic.com"
+    },
+    {
+        "App": "ChatGPT",
+        "Domain": "openai.com"
+    },
+    {
+        "App": "CocCoc",
+        "Domain": "coccoc.com"
+    },
+    {
+        "App": "CocCoc",
+        "Domain": "rungrinh.vn"
+    },
+    {
+        "App": "Deezer",
+        "Domain": "deezer.com"
+    },
+    {
+        "App": "Deezer",
+        "Domain": "dzcdn.net"
+    },
+    {
+        "App": "Deezer Music",
+        "Domain": "deezer.com"
+    },
+    {
+        "App": "Discord",
+        "Domain": "discord.com"
+    },
+    {
+        "App": "Discord",
+        "Domain": "discordapp.com"
+    },
+    {
+        "App": "Discord",
+        "Domain": "dis.criteo.com"
+    },
+    {
+        "App": "Discord",
+        "Domain": "discord.gg"
+    },
+    {
+        "App": "EpicGames",
+        "Domain": "epicgames.com"
+    },
+    {
+        "App": "EpicGames",
+        "Domain": "epicgames.dev"
+    },
+    {
+        "App": "Messenger",
+        "Domain": "facebook.com"
+    },
+    {
+        "App": "Messenger",
+        "Domain": "fbcdn.net"
+    },
+    {
+        "App": "Messenger",
+        "Domain": "fbsbx.com"
+    },
+    {
+        "App": "Messenger",
+        "Domain": "facebook.net"
+    },
+    {
+        "App": "FallGuys",
+        "Domain": "fallguys.com"
+    },
+    {
+        "App": "Github",
+        "Domain": "github.com"
+    },
+    {
+        "App": "Github",
+        "Domain": "githubassets.com"
+    },
+    {
+        "App": "Github",
+        "Domain": "githubusercontent.com"
+    },
+    {
+        "App": "Instagram",
+        "Domain": "instagram.com"
+    },
+    {
+        "App": "Instagram",
+        "Domain": "cdninstagram.com"
+    },
+    {
+        "App": "Iqiyi",
+        "Domain": "iq.com"
+    },
+    {
+        "App": "Iqiyi",
+        "Domain": "iqiyipic.com"
+    },
+    {
+        "App": "Iqiyi",
+        "Domain": "iqiyi.com"
+    },
+    {
+        "App": "Iqiyi",
+        "Domain": "qy.net"
+    },
+    {
+        "App": "Kaspersky",
+        "Domain": "kaspersky-labs.com"
+    },
+    {
+        "App": "Kaspersky",
+        "Domain": "kaspersky.com"
+    },
+    {
+        "App": "Kaspersky",
+        "Domain": "kasperskylabs.net"
+    },
+    {
+        "App": "Lazada",
+        "Domain": "lazada.vn"
+    },
+    {
+        "App": "Lazada",
+        "Domain": "lazcdn.com"
+    },
+    {
+        "App": "Lazada",
+        "Domain": "fourier.taobao.com"
+    },
+    {
+        "App": "Lazada",
+        "Domain": "taboola.com"
+    },
+    {
+        "App": "LinkedIn",
+        "Domain": "linkedin.com"
+    },
+    {
+        "App": "Messenger",
+        "Domain": "messenger.live.com "
+    },
+    {
+        "App": "Messenger",
+        "Domain": "messenger.com"
+    },
+    {
+        "App": "MongoDB Compass",
+        "Domain": "mongodb.com"
+    },
+    {
+        "App": "Netflix",
+        "Domain": "netflix.com"
+    },
+    {
+        "App": "Netflix",
+        "Domain": "nflxext.com"
+    },
+    {
+        "App": "Netflix",
+        "Domain": "nflxso.net"
+    },
+    {
+        "App": "Netflix",
+        "Domain": "nflximg.net"
+    },
+    {
+        "App": "Netflix",
+        "Domain": "nflxvideo.net"
+    },
+    {
+        "App": "Nimo TV",
+        "Domain": "nimo.tv"
+    },
+    {
+        "App": "Nimo TV",
+        "Domain": "nimostatic.tv"
+    },
+    {
+        "App": "Nimo TV",
+        "Domain": "master.live"
+    },
+    {
+        "App": "OverWolf",
+        "Domain": "overwolf.com"
+    },
+    {
+        "App": "OverWolf",
+        "Domain": "vimeocdn.com"
+    },
+    {
+        "App": "OverWolf",
+        "Domain": "vimeo.com"
+    },
+    {
+        "App": "Pinterest",
+        "Domain": "pinterest.com"
+    },
+    {
+        "App": "Pinterest",
+        "Domain": "pinimg.com"
+    },
+    {
+        "App": "PrimeVideo",
+        "Domain": "primevideo.com"
+    },
+    {
+        "App": "PrimeVideo",
+        "Domain": "media-amazon.com"
+    },
+    {
+        "App": "PrimeVideo",
+        "Domain": "ssl-images-amazon.com"
+    },
+    {
+        "App": "PrimeVideo",
+        "Domain": "amazon.com"
+    },
+    {
+        "App": "Reddit",
+        "Domain": "reddit.com "
+    },
+    {
+        "App": "Reddit",
+        "Domain": "reddit.map.fastly.net"
+    },
+    {
+        "App": "Reddit",
+        "Domain": "redditstatic.com "
+    },
+    {
+        "App": "Reddit",
+        "Domain": "redd.it "
+    },
+    {
+        "App": "Reddit",
+        "Domain": "redditmedia.com "
+    },
+    {
+        "App": "RiotClient",
+        "Domain": "riotcdn.net"
+    },
+    {
+        "App": "RiotClient",
+        "Domain": "riotgames.com"
+    },
+    {
+        "App": "Shopee",
+        "Domain": "shopee.vn"
+    },
+    {
+        "App": "Shopee",
+        "Domain": "shope.ee"
+    },
+    {
+        "App": "Shopee",
+        "Domain": "shopee.com"
+    },
+    {
+        "App": "Skype",
+        "Domain": "skype.com "
+    },
+    {
+        "App": "Skype",
+        "Domain": "skypeassets.com "
+    },
+    {
+        "App": "Snapchat",
+        "Domain": "snapchat.com"
+    },
+    {
+        "App": "SoundCloud",
+        "Domain": "soundcloud.com"
+    },
+    {
+        "App": "SoundCloud",
+        "Domain": "sndcdn.com"
+    },
+    {
+        "App": "Spotify",
+        "Domain": "spotify.com"
+    },
+    {
+        "App": "Spotify",
+        "Domain": "spotify.map.fastly.net"
+    },
+    {
+        "App": "Spotify",
+        "Domain": "spotifycdn.map.fastly.net"
+    },
+    {
+        "App": "Spotify",
+        "Domain": "spotify.com"
+    },
+    {
+        "App": "Spotify",
+        "Domain": "spotifycdn.com"
+    },
+    {
+        "App": "Spotify",
+        "Domain": "spotify.demdex.net"
+    },
+    {
+        "App": "Spotify",
+        "Domain": "daily-mix.scdn.co"
+    },
+    {
+        "App": "Steam",
+        "Domain": "steampowered.com"
+    },
+    {
+        "App": "Steam",
+        "Domain": "steamserver.net"
+    },
+    {
+        "App": "Steam",
+        "Domain": "steamstatic.com"
+    },
+    {
+        "App": "Steam",
+        "Domain": "steampowered.com"
+    },
+    {
+        "App": "Steam",
+        "Domain": "steamcommunity.com"
+    },
+    {
+        "App": "Steam",
+        "Domain": "steam-chat.com"
+    },
+    {
+        "App": "Telegram",
+        "Domain": "telegram.org "
+    },
+    {
+        "App": "Telegram",
+        "Domain": "telegram.me"
+    },
+    {
+        "App": "Tiki",
+        "Domain": "tiki.vn"
+    },
+    {
+        "App": "Tiki",
+        "Domain": "tikicdn.com"
+    },
+    {
+        "App": "Tiki",
+        "Domain": "tikinow.biz"
+    },
+    {
+        "App": "Tiki",
+        "Domain": "tikinow.vn"
+    },
+    {
+        "App": "Tiktok",
+        "Domain": "tiktok.com"
+    },
+    {
+        "App": "Tiktok",
+        "Domain": "tiktokcdn.com"
+    },
+    {
+        "App": "Tiktok",
+        "Domain": "tiktoktv.com"
+    },
+    {
+        "App": "Tiktok",
+        "Domain": "tiktokvideo.com"
+    },
+    {
+        "App": "Tiktok",
+        "Domain": "tiktokv.com"
+    },
+    {
+        "App": "Twitter",
+        "Domain": "twitter.com"
+    },
+    {
+        "App": "Twitter",
+        "Domain": "twimg.com"
+    },
+    {
+        "App": "Ubuntu",
+        "Domain": "ubuntu.com"
+    },
+    {
+        "App": "Ultraviewr",
+        "Domain": "ultraviewer.net"
+    },
+    {
+        "App": "Vieon",
+        "Domain": "vieon.vn"
+    },
+    {
+        "App": "Vieon",
+        "Domain": "klaviyo.com"
+    },
+    {
+        "App": "Vieon",
+        "Domain": "aiactiv.io"
+    },
+    {
+        "App": "ViettelPost",
+        "Domain": "viettelpost.com.vn"
+    },
+    {
+        "App": "ViettelPost",
+        "Domain": "viettelpost.vn"
+    },
+    {
+        "App": "VisualStudio",
+        "Domain": "visualstudio.com"
+    },
+    {
+        "App": "VMware",
+        "Domain": "vmware.com"
+    },
+    {
+        "App": "WireShark",
+        "Domain": "wireshark.org"
+    },
+    {
+        "App": "Xbox",
+        "Domain": "xbox.com"
+    },
+    {
+        "App": "Xbox",
+        "Domain": "xboxservices.com"
+    },
+    {
+        "App": "Xbox",
+        "Domain": "xboxlive.com"
+    },
+    {
+        "App": "Xbox",
+        "Domain": "xboxab.com"
+    },
+    {
+        "App": "Zalo",
+        "Domain": "zalo.me"
+    },
+    {
+        "App": "Zalo",
+        "Domain": "zadn.vn"
+    },
+    {
+        "App": "Zalo",
+        "Domain": "zavi.me"
+    },
+    {
+        "App": "Zalo",
+        "Domain": "zaloapp.com"
+    },
+    {
+        "App": "Zalo",
+        "Domain": "zdn.vn"
+    },
+    {
+        "App": "Zalo",
+        "Domain": "zaloweb.vn"
+    },
+    {
+        "App": "Zalo",
+        "Domain": "zaloapp.com"
+    },
+    {
+        "App": "Zalo",
+        "Domain": "qos.talk.zing.vn"
+    },
+    {
+        "App": "Discord",
+        "Domain": "latency.discord.media"
+    },
+    {
+        "App": "Asus",
+        "Domain": "liveupdate01s.asus.com"
+    },
+    {
+        "App": "Skype",
+        "Domain": "config.edge.skype.com"
+    },
+    {
+        "App": "Asus",
+        "Domain": "www.asus.com"
+    },
+    {
+        "App": "outlook",
+        "Domain": "outlook.office365.com"
+    },
+    {
+        "App": "outlook",
+        "Domain": "substrate.office.com"
+    },
+    {
+        "App": "Messenger",
+        "Domain": "portal.fb.com"
+    },
+    {
+        "App": "MongoDB Compass",
+        "Domain": "intercom.io"
+    },
+    {
+        "App": "Asus",
+        "Domain": "rog-live-service.asus.com"
+    },
+    {
+        "App": "Riotgames",
+        "Domain": "dl.delivery.mp.microsoft.com"
+    },
+    {
+        "App": "opera",
+        "Domain": "autoupdate.geo.opera.com"
+    },
+    {
+        "App": "opera",
+        "Domain": "sitecheck.opera.com"
+    },
+    {
+        "App": "opera",
+        "Domain": "weather.opera-api2.com"
+    },
+    {
+        "App": "opera",
+        "Domain": "extension-updates.opera.com"
+    },
+    {
+        "App": "opera",
+        "Domain": "features.opera-api2.com"
+    },
+    {
+        "App": "nvidia",
+        "Domain": "www.bing.com"
+    },
+    {
+        "App": "opera",
+        "Domain": "speeddials.opera.com"
+    },
+    {
+        "App": "opera",
+        "Domain": "exchange.opera.com"
+    },
+    {
+        "App": "outlook",
+        "Domain": "roaming.officeapps.live.com"
+    },
+    {
+        "App": "nvidia",
+        "Domain": "th.bing.com"
+    },
+    {
+        "App": "Xbox",
+        "Domain": "fp-afd.azureedge.net"
+    },
+    {
+        "App": "nvidia",
+        "Domain": "r.bing.com"
+    },
+    {
+        "App": "Xbox",
+        "Domain": "fp-afd-nocache-ccp.azureedge.net"
+    },
+    {
+        "App": "Xbox",
+        "Domain": "fp-afd.azurefd.net"
+    },
+    {
+        "App": "Asus",
+        "Domain": "account.asus.com"
+    },
+    {
+        "App": "Asus",
+        "Domain": "demeter.asus.com"
+    },
+    {
+        "App": "Asus",
+        "Domain": "asc-appservice-01.asus.com"
+    },
+    {
+        "App": "Asus",
+        "Domain": "odinapi.asus.com"
+    },
+    {
+        "App": "Asus",
+        "Domain": "api-rog.asus.com"
+    },
+    {
+        "App": "Asus",
+        "Domain": "messageapi.asus.com"
+    },
+    {
+        "App": "outlook",
+        "Domain": "outlook.office.com"
+    },
+    {
+        "App": "Nasa",
+        "Domain": "api-2-0.spot.im"
+    },
+    {
+        "App": "Riotgames",
+        "Domain": "download.windowsupdate.com"
+    },
+    {
+        "App": "Riotgames",
+        "Domain": "ctldl.windowsupdate.com"
+    },
+    {
+        "App": "nvidia",
+        "Domain": "edgeservices.bing.com"
+    },
+    {
+        "App": "nvidia",
+        "Domain": "win10-trt.msedge.net"
+    },
+    {
+        "App": "steam",
+        "Domain": "img-s-msn-com.akamaized.net"
+    },
+    {
+        "App": "nvidia",
+        "Domain": "c.bing.com"
+    },
+    {
+        "App": "MongoDB Compass",
+        "Domain": "fp.msedge.net"
+    },
+    {
+        "App": "Discord",
+        "Domain": "hongkong11031.discord.media"
+    },
+    {
+        "App": "Discord",
+        "Domain": "hongkong11018.discord.media"
+    },
+    {
+        "App": "Discord",
+        "Domain": "hongkong1191.discord.media"
+    }
+]
