@@ -42,8 +42,8 @@ with open('Project_Domain.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Prepare training data
-X = [app['Domain'] for app in data]
-y = [app['App'] for app in data]
+X = [app["Domain"] for app in data]
+y = [app["App"] for app in data]
 
 # File paths
 model_file = 'model.sav'
